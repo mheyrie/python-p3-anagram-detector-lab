@@ -5,8 +5,7 @@ class Anagram:
 
     def match(self, word_list):
         
-        word_ 
-        sorted = sorted(self.word.lower())
+        word_sorted = sorted(self.word.lower())
 
         anagrams = []
 
